@@ -1,0 +1,65 @@
+// Autor: Gabriel Barbiero Fagundes Gomide - 247734
+
+1) Está familirizado com o conceito de lista de adjascências aplicadas a grafos em C?
+
+2) Como funciona as conexões entre os vertices? Poderia fazer uma função crie conexões e detalha ela melhor?
+
+3) Se ao invés de números nos vertices dos grafos eu tivesse palavras, como você modificaria o código?
+
+4) Eu gostaria que fosse um sistema semelhante uma rede social, faz sentido?
+
+5) Como eu posso verificar o grau de separação entre dois vertices em um grafo, como se fosse a distância de relações
+entre duas pessoas?
+
+6) Eu gostaria que o usuário me desse o número de conexões e me desse quais são as conexões entre as palavras, faz sentido?
+
+7) Um exemplo de entrada seria o número de conexões, por exemplo 3, e as conexões seguintes:
+Jorge Andre
+Cleber Emily
+Josias Cleber
+Significando que Jorge conhece Andre, Cleber conhece Emily, Josias conhece Cleber. Faz sentido?
+
+8)Pensando na lógica de graus de separação, eu queria na entrada, após especificar as conexões, 
+queria adicionar uma linha, por exemplo se eu colocar Cleber 2, 
+eu gostaria que o programa printasse os nomes das pessoas que estão a 2 graus de separação do Cleber, entende?
+
+9) Se por exemplo, eu tiver duas palavras à uma distância k do minha palavra de origem, pode fazer o código imprimir essas duas palavras? 
+Por exemplo, se eu der a entrada:
+
+16
+Rajat Ryan
+Rajat Doug
+Rajat Debbie
+Debbie Doug
+Debbie Larry
+Doug Larry
+Larry Francis
+Larry Emily
+Francis Gary
+Emily Gary
+Emily Richard
+Emily Rebecca
+Gary Richard
+Francis Emily
+Richard Arnold
+Rebecca Arnold
+Emily 2
+Emily 3
+
+Eu espero que ele imprima:
+Emily 2: Arnold Debbie Doug
+Emily 3: Rajat
+
+10)Acredito que dê para resolver o problema com apenas três funções, uma que adicione a conexão inserida ao grafo, uma que realiza a busca e uma auxiliar 
+que encontra o indice dentro do grafo da pessoa, o indice serviria para indicar dentro da função de busca, onde ela deve começar.
+Consegue simplificar o código fornecido nessas três funções?
+
+11) Pode por favor tirar os prints de entrada?
+
+12) Poderia modificar o código para eu conseguir inserir mais de uma entrada após a conexão, por exemplo, Emily 2 e logo
+em seguida Emily 3?
+
+13) Dentro da função bfs, ele printa os nomes encontrados, seria possível realizar esse print em ordem alfabética?
+
+14) Consegue dividir esse arquivo em três, montando um TAD, em que cliente.c (cliente), ED.h (interface) 
+e ED.c (implementação) são os arquivos?

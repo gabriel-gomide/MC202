@@ -1,0 +1,12 @@
+// Autor: Gabriel Barbiero Fagundes Gomide - 247734
+
+    Utilizei o chat gpt para realizar a tarefa. Contudo, tive que utilizar algumas conversas para dar certo.
+A IA cometia muitos erros, e muitas vezes eu apontava os erros e ele dizia que mudava mas o código estava idêntico, 
+sendo necessário muitas vezes pedir a mesma coisa com outras palavras.
+
+    Tive que reiniciar a conversa algumas vezes, acredito que teria sido mais rápido só fazer o código e talvez pedir ajudas pontuais a IA. 
+De toda forma, ao final, o código deu certo, principalmente depois que eu pensei em uma solução por conta própria e fui guiando a IA 
+até ela. As únicas modificações que fiz foi em alguns ifs de verificação que não faziam muito sentido, e alterei quando o program termina.
+
+De modo geral, foi uma experiência interessante com certo grau de frustração, o nivel de delirio e de erros com convicção do chat gpt
+ainda é muito alto, não sendo, assim uma ferramenta muito confivael para tarefas complexas.

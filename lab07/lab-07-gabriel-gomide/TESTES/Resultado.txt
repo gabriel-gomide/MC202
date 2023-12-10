@@ -1,0 +1,30 @@
+Comparando os arquivos TESTES\01.txt e TESTES\01.OUT
+FC: nenhuma diferença encontrada
+
+Comparando os arquivos TESTES\02.txt e TESTES\02.OUT
+FC: nenhuma diferença encontrada
+
+Comparando os arquivos TESTES\03.txt e TESTES\03.OUT
+FC: nenhuma diferença encontrada
+
+Comparando os arquivos TESTES\04.txt e TESTES\04.OUT
+FC: nenhuma diferença encontrada
+
+Comparando os arquivos TESTES\05.txt e TESTES\05.OUT
+FC: nenhuma diferença encontrada
+
+Comparando os arquivos TESTES\06.txt e TESTES\06.OUT
+FC: nenhuma diferença encontrada
+
+Comparando os arquivos TESTES\07.txt e TESTES\07.OUT
+FC: nenhuma diferença encontrada
+
+Comparando os arquivos TESTES\08.txt e TESTES\08.OUT
+FC: nenhuma diferença encontrada
+
+Comparando os arquivos TESTES\09.txt e TESTES\09.OUT
+FC: nenhuma diferença encontrada
+
+Comparando os arquivos TESTES\10.txt e TESTES\10.OUT
+FC: nenhuma diferença encontrada
+
